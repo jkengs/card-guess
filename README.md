@@ -17,7 +17,7 @@ Calculates the quality of a guess and returns these values in this order:
 <br>
 
 |Answer| Guess|Feedback|
-|---|---|---|
+|---|---|:-:|
 | 3 ♣ 4 ♥ | 4 ♥ 3 ♣ | 2 0 2 0 2 |
 | A ♣ 2 ♣ | 3 ♣ 4 ♥ | 0 1 0 1 1 |
 
