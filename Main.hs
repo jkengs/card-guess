@@ -11,7 +11,6 @@ main = do
 
 gameLoop :: IO ()
 gameLoop = do
-    putStr "- "
     answer <- getLine
     if answer == "exit" then
         putStrLn "Exiting the game. Goodbye!"
