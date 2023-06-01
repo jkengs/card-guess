@@ -1,6 +1,5 @@
 {-|
 File        : Game.hs
-Author      : jkengs
 Description : An implementation of a Card Guessing Game
 
 The game stimulates two players facing each other, where one player is the answerer and the other is

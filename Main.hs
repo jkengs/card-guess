@@ -1,4 +1,5 @@
 module Main(main) where
+import Game
 import Guess
 
 main :: IO ()

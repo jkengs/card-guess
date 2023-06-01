@@ -1,7 +1,7 @@
 {-|
 File     : Guess.hs
 
-Automated guessing program for Game.hs
+Automated guessing program for the game.
 -}
 module Guess (guess) where
 import Data.List
